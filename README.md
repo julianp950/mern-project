@@ -1,6 +1,7 @@
 # mern-project
 
-THIS PROJECT IS INCOMPLETE
+**THIS PROJECT IS INCOMPLETE**
+
 A simple social media like app as MERN stack practice. Done following a tutorial on YouTube allows for posting pictures with captions in an Instagram-like fashion.
 
 Utilizes:
